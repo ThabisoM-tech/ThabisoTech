@@ -1,5 +1,5 @@
 # ThabisoTech
-Hi there, I,m Lebo Thabiso Makola
+Hi there, I,m Thabiso
 
 I am a high-aptitude quantitative engineer and data analyst driven by Computational logic. With a 90% verified aptitude score and a strong foundation in mathematics and statistics from UNISA, I specialize in building resilient, automated financial systems.
 
